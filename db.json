@@ -1,151 +1,278 @@
 {
-    "type": "CareContent",
-    "id": 174,
-    "activities": [
-                   {
-                   "question_survey": 951,
-                   "identifier": "1111",
-                   "title": "Play any board game",
-                   "summery": "Play any game for fun and brain exercise",
-                   "instructions": "Download any game from AppStore",
-                   "start_date": "2018-01-02T11:11:22.993319",
-                   "end_date": "2018-01-03T11:11:22.993319",
-                   "schedule": "weekly",
-                   "occurrence": [
-                                  1,
-                                  2,
-                                  2,
-                                  3,
-                                  1,
-                                  6,
-                                  10
-                                  ],
-                   "groupID": "Game Activity",
-                   "tintColor": "#ff0000",
-                   "optional": false,
-                   "resultResettable": true,
-                   "carePlanActivityType": 0
-                   },
-                   {
-                   "question_survey": 952,
-                   "identifier": "FingerTapping",
-                   "title": "Finger Tapping",
-                   "summery": "Complete finger tapping active task",
-                   "instructions": "Complete task in 60 seconds only",
-                   "start_date": "2017-11-10T11:11:22.993319",
-                   "end_date": "2017-11-27T11:11:22.993319",
-                   "schedule": "weekly",
-                   "occurrence": [
-                                  1,
-                                  2,
-                                  2,
-                                  3,
-                                  1,
-                                  6,
-                                  10
-                                  ],
-                   "groupID": "Physical Activity",
-                   "tintColor": "#00ff00",
-                   "optional": false,
-                   "resultResettable": false,
-                   "carePlanActivityType": 0
-                   },
-                   {
-                   "question_survey": 953,
-                   "identifier": "Running",
-                   "title": "Running",
-                   "summery": "Complete running task",
-                   "instructions": "Run 2km in morning",
-                   "start_date": "2017-10-01T11:11:22.993319",
-                   "end_date": "2017-10-17T11:11:22.993319",
-                   "schedule": "weekly",
-                   "occurrence": [
-                                  1,
-                                  1,
-                                  1,
-                                  1,
-                                  1,
-                                  1,
-                                  1
-                                  ],
-                   "groupID": "Physical Activity",
-                   "tintColor": "#0000ff",
-                   "optional": false,
-                   "resultResettable": false,
-                   "carePlanActivityType": 0
-                   },
-                   {
-                   "question_survey": 954,
-                   "identifier": "custom",
-                   "title": "Blood glucose",
-                   "summery": "Provide your blood glucose value",
-                   "instructions": "Measure blood glucode value, and provide here",
-                   "start_date": "2017-10-01T11:11:22.993319",
-                   "end_date": "2017-10-17T11:11:22.993319",
-                   "schedule": "weekly",
-                   "occurrence": [
-                                  1,
-                                  1,
-                                  1,
-                                  1,
-                                  1,
-                                  1,
-                                  1
-                                  ],
-                   "groupID": "Assessment Activity",
-                   "tintColor": "#f000ff",
-                   "optional": false,
-                   "resultResettable": false,
-                   "carePlanActivityType": 1
-                   },
-                   {
-                   "question_survey": 955,
-                   "identifier": "Play game Assessment",
-                   "title": "Play any board game",
-                   "summery": "Play any game for fun and brain exercise",
-                   "instructions": "Download any game from AppStore",
-                   "start_date": "2017-11-18T11:11:22.993319",
-                   "end_date": "2017-11-27T11:11:22.993319",
-                   "schedule": "weekly",
-                   "occurrence": [
-                                  1,
-                                  2,
-                                  2,
-                                  3,
-                                  1,
-                                  6,
-                                  10
-                                  ],
-                   "groupID": "Game Activity",
-                   "tintColor": "#ff0000",
-                   "optional": false,
-                   "resultResettable": true,
-                   "carePlanActivityType": 1
-                   },
-                   {
-                   "question_survey": 956,
-                   "identifier": "Play game Read only",
-                   "title": "Play any board game",
-                   "summery": "Play any game for fun and brain exercise",
-                   "instructions": "Download any game from AppStore",
-                   "start_date": "2017-11-20T11:11:22.993319",
-                   "end_date": "2017-11-27T11:11:22.993319",
-                   "schedule": "weekly",
-                   "occurrence": [
-                                  1,
-                                  2,
-                                  2,
-                                  3,
-                                  1,
-                                  6,
-                                  10
-                                  ],
-                   "groupID": "Game Activity",
-                   "tintColor": "#ff0000",
-                   "optional": false,
-                   "resultResettable": true,
-                   "carePlanActivityType": 2
-                   }
-                   ],
-    "title": "Care Contents"
-    }
+  "app_identifier": "",
+  "data": {
+    "surveys": [
+      {
+        "type": "CareContent",
+        "id": 174,
+        "activities": [
+          {
+            "question_survey": 951,
+            "identifier": "1111",
+            "title": "BENCH PRESS",
+            "summery": "Sets: 5 Reps: 15. 12, 10, 10, 8",
+            "instructions": "1. Grasp the bar just outside shoulder width and arch your back so there's space between your lower back and the bench.",
+            "start_date": "2017-12-16T00:00:00.000000",
+            "end_date": "2018-01-16T00:00:00.000000",
+            "schedule": "weekly",
+            "occurrence": [
+              0,
+              5,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "groupID": "Chest and triceps workout",
+            "tintColor": "#F9E79F",
+            "optional": false,
+            "resultResettable": true,
+            "carePlanActivityType": 0
+          },
+          {
+            "question_survey": 9511,
+            "identifier": "11111",
+            "title": "FLOOR PULLOVER",
+            "summery": "Sets: 4 Reps: 10",
+            "instructions": "1. Grasp the bar just outside shoulder width and arch your back so there's space between your lower back and the bench.",
+            "start_date": "2017-12-16T00:00:00.000000",
+            "end_date": "2018-01-16T00:00:00.000000",
+            "schedule": "weekly",
+            "occurrence": [
+              0,
+              4,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "groupID": "Chest and triceps workout",
+            "tintColor": "#E74C3C",
+            "optional": false,
+            "resultResettable": true,
+            "carePlanActivityType": 0
+          },
+          {
+            "question_survey": 9512,
+            "identifier": "11112",
+            "title": "FRONT SQUAT",
+            "summery": "Sets: 5 Reps: 15, 12, 10, 10, 10",
+            "instructions": "1. Set a barbell on a power rack at about shoulder height. Grasp the bar with hands at shoulder width and raise your elbows until your upper arms are parallel to the floor. Take the bar out of the rack and let it rest on your fingertips—as long as your elbows stay up, you'll be able to balance the bar.",
+            "start_date": "2017-12-16T00:00:00.000000",
+            "end_date": "2018-01-16T00:00:00.000000",
+            "schedule": "weekly",
+            "occurrence": [
+              0,
+              0,
+              5,
+              0,
+              0,
+              0,
+              0
+            ],
+            "groupID": "Legs and abs workout",
+            "tintColor": "#82E0AA",
+            "optional": false,
+            "resultResettable": true,
+            "carePlanActivityType": 0
+          },
+          {
+            "question_survey": 9513,
+            "identifier": "11113",
+            "title": "ROMANIAN DEADLIFT",
+            "summery": "Sets: 4 Reps: 12, 10, 10, 8",
+            "instructions": "1. Set a barbell on a power rack at about shoulder height. Grasp the bar with hands at shoulder width and raise your elbows until your upper arms are parallel to the floor. Take the bar out of the rack and let it rest on your fingertips—as long as your elbows stay up, you'll be able to balance the bar.",
+            "start_date": "2017-12-16T00:00:00.000000",
+            "end_date": "2018-01-16T00:00:00.000000",
+            "schedule": "weekly",
+            "occurrence": [
+              0,
+              0,
+              4,
+              0,
+              0,
+              0,
+              0
+            ],
+            "groupID": "Legs and abs workout",
+            "tintColor": "#5DADE2",
+            "optional": false,
+            "resultResettable": true,
+            "carePlanActivityType": 0
+          },
+          {
+            "question_survey": 9514,
+            "identifier": "11114",
+            "title": "BENTOVER ROW",
+            "summery": "Sets: 5 Reps: 15, 12, 10, 10, 10",
+            "instructions": "1. Grasp the bar overhand at shoulder width and let it hang in front of your thighs. Bend at the hips and lower your torso until it's nearly parallel to the floor.",
+            "start_date": "2017-12-16T00:00:00.000000",
+            "end_date": "2018-01-16T00:00:00.000000",
+            "schedule": "weekly",
+            "occurrence": [
+              0,
+              0,
+              0,
+              5,
+              0,
+              0,
+              0
+            ],
+            "groupID": "Back and biceps workout",
+            "tintColor": "#5DADE2",
+            "optional": false,
+            "resultResettable": true,
+            "carePlanActivityType": 0
+          },
+          {
+            "question_survey": 9515,
+            "identifier": "11115",
+            "title": "RACK PULL",
+            "summery": "Sets: 4 Reps: 10",
+            "instructions": "1. Set a barbell on the spotter bars of a power rack or on mats high enough that when you load the bar with plates it comes up to just below your knees. Stand with feet hip-width apart and bend your hips back.",
+            "start_date": "2017-12-16T00:00:00.000000",
+            "end_date": "2018-01-16T00:00:00.000000",
+            "schedule": "weekly",
+            "occurrence": [
+              0,
+              0,
+              0,
+              4,
+              0,
+              0,
+              0
+            ],
+            "groupID": "Back and biceps workout",
+            "tintColor": "#ABB2B9",
+            "optional": false,
+            "resultResettable": true,
+            "carePlanActivityType": 0
+          },
+          {
+            "question_survey": 9516,
+            "identifier": "9516",
+            "title": "Measure Weight",
+            "summery": "Measure Weight and fill details here",
+            "instructions": "Measure Weight with any tool",
+            "start_date": "2017-12-16T00:00:00.000000",
+            "end_date": "2018-01-16T00:00:00.000000",
+            "schedule": "weekly",
+            "occurrence": [
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "groupID": "Weight Management",
+            "tintColor": "#F8C471",
+            "optional": false,
+            "resultResettable": false,
+            "answerType": {
+              "type": 0,
+              "isOptional": false,
+              "defaultValues": {
+                "title": "Input your weight",
+                "value": 0,
+                "unit": "lb"
+              }
+            },
+            "carePlanActivityType": 1
+          },
+          {
+            "question_survey": 9517,
+            "identifier": "9517",
+            "title": "How much pain are you feeling?",
+            "summery": "Rate your pain level",
+            "instructions": "",
+            "start_date": "2017-12-16T00:00:00.000000",
+            "end_date": "2018-01-16T00:00:00.000000",
+            "schedule": "weekly",
+            "occurrence": [
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "groupID": "Extras",
+            "tintColor": "#76D7C4",
+            "optional": false,
+            "resultResettable": true,
+            "answerType": {
+              "type": 1,
+              "isOptional": false,
+              "defaultValues": {
+                "title": "how much pain?",
+                "max": 10,
+                "min": 1,
+                "value": 1,
+                "step": 1,
+                "isVertical": true,
+                "minDesc": "low",
+                "maxDesc": "high"
+              }
+            },
+            "carePlanActivityType": 1
+          },
+          {
+            "question_survey": 95171,
+            "identifier": "95171",
+            "title": "Take deep breathing for 1 minute",
+            "summery": "Rest and Enjoy",
+            "instructions": "",
+            "start_date": "2017-12-16T00:00:00.000000",
+            "end_date": "2018-01-16T00:00:00.000000",
+            "schedule": "weekly",
+            "occurrence": [
+              0,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ],
+            "groupID": "Extras",
+            "tintColor": "#5499C7",
+            "optional": true,
+            "resultResettable": true,
+            "carePlanActivityType": 0
+          },
+          {
+            "question_survey": 9518,
+            "identifier": "9518",
+            "title": "Wear shoes always",
+            "summery": "Don't forget to wear sports shoes while doing exercise",
+            "instructions": "Wear shoes.",
+            "start_date": "2017-12-16T00:00:00.000000",
+            "end_date": "2018-01-16T00:00:00.000000",
+            "schedule": "weekly",
+            "occurrence": [
+              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1
+            ],
+            "groupID": "Important notifications",
+            "tintColor": "#7B241C",
+            "optional": false,
+            "resultResettable": true,
+            "carePlanActivityType": 2
+          }
+        ],
+        "title": "Care Contents"
+      }
+    ]
+  },
+  "generated_on": "2017-08-04T11:11:22.993319"
+}
